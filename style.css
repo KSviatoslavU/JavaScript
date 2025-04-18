@@ -162,5 +162,8 @@ cursor: pointer;
 .swiper-pagination-bullet {
     width: 12px;
     height: 12px; 
-    /* opacity: 0.1; */
+}
+
+.swiper {
+    height: 115px ;
 }
